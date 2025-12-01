@@ -1,6 +1,6 @@
 # IM4SEA
 
-**IM4SEA - Information Management for Southern & Eastern Africa** is an initiative of the **OCHA ROSEA IM Team)** that advances open, collaborative data systems and tools to strengthen humanitarian information management across the region. It focuses on maintaining and sharing open, interoperable tools, workflows, and analytical systems that improve data management and analysis for coordinated humanitarian action. IM4SEA is not a replacement for OCHA's [Information Management Toolbox](https://humanitarian.atlassian.net/wiki/spaces/imtoolbox/overview?homepageId=42012406), which provides global guidance, templates, and standards for humanitarian information management.
+**IM4SEA - Information Management for Southern & Eastern Africa** is an initiative of the **OCHA ROSEA IM Team** that advances open, collaborative data systems and tools to strengthen humanitarian information management across the region. It focuses on maintaining and sharing open, interoperable tools, workflows, and analytical systems that improve data management and analysis for coordinated humanitarian action. IM4SEA is not a replacement for OCHA's [Information Management Toolbox](https://humanitarian.atlassian.net/wiki/spaces/imtoolbox/overview?homepageId=42012406), which provides global guidance, templates, and standards for humanitarian information management.
 
 ## Mission
 
