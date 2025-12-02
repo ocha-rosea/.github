@@ -4,7 +4,7 @@
 
 ## Mission
 
-To strengthen humanitarian & development information management through open, scalable, and responsible technologies that improve evidence-based decision-making, operational efficiency, and regional collaboration.
+To strengthen humanitarian  information management through open, scalable, and responsible technologies that improve evidence-based decision-making, operational efficiency, and regional collaboration.
 
 ## Focus Areas
 
