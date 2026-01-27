@@ -1,6 +1,6 @@
 # IM4SEA
 
-**IM4SEA - Information Management for Southern & Eastern Africa** is a voluntary collaboration space advancing open data systems and tools to strengthen humanitarian information management across the region. It focuses on maintaining and sharing open, interoperable tools, workflows, and analytical systems that improve data management and analysis. IM4SEA is not a replacement for your organisations information management tools and processes.
+**IM4SEA - Information Management for Southern & Eastern Africa** is a collaboration space advancing open data systems and tools to strengthen humanitarian information management across the region. It focuses on maintaining and sharing open, interoperable tools, workflows, and analytical systems that improve data management and analysis. IM4SEA is not a replacement for your organisations information management tools and processes.
 
 ## Mission
 
