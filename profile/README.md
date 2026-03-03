@@ -1,6 +1,6 @@
 # OCHA ROSEA Regional IM Open Tools & Data Collaboration
 
-**This repository is a collaboration space advancing open data processing and IM tools to strengthen humanitarian information management across the region. It focuses on maintaining and sharing open, interoperable tools, workflows, and analytical systems that improve data management and analysis. This repo is not a replacement for your organisations information management tools and processes.
+This repository is a collaboration space advancing open data processing and IM tools to strengthen humanitarian information management across the region. It focuses on maintaining and sharing open, interoperable tools, workflows, and analytical systems that improve data management and analysis. This repo is not a replacement for your organisations information management tools and processes.
 
 ## Mission
 
